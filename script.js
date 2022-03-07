@@ -31,11 +31,6 @@ if (randomNum !== 3){//use strict
 if (randomNum !== 3 && randomNum !== 5){
     console.log(`Not equal to 3 AND not equal to 5`);
 }
-//OR
-
-if (randomNum !==3 && 5){
-    console.log(`Not equal to 3 AND not equal to 5`);
-}
 
 //1e
 if (randomNum === 2 || randomNum === 4){
